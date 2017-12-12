@@ -1,0 +1,6040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.3" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;#10004; Good!</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171018T174208Z">
+        <seg>&amp;#10004; Bra!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;#9888; Think twice!</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171018T174346Z">
+        <seg>&amp;#9888; Tänk dig för!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;times; Oh no!</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171018T174426Z">
+        <seg>&amp;times; Åh nej!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'K' or 'L'</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171018T183552Z">
+        <seg>'K' eller 'L'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Don't put the wallet/private keys on your web server, otherwise you risk hackers stealing your coins.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T081637Z">
+        <seg>(Spara inte plånboken/de privata nycklarna på din webbserver, för då riskerar du att hackare stjäl dina bitcoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Y/Yes/N/No)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T202653Z" creationid="Dorothy" creationdate="20171026T202653Z">
+        <seg>(J/Ja/N/Nej)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>(Y/Yes/N/No):</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T200450Z" creationid="Dorothy" creationdate="20171026T200450Z">
+        <seg>(J/Ja/N/Nej):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Y/n)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T202945Z" creationid="Dorothy" creationdate="20171026T202945Z">
+        <seg>(J/n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>+--&gt; block height</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T202813Z" creationid="Dorothy" creationdate="20171026T202813Z">
+        <seg>+--&gt; blockhöjd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>, number of keys:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064052Z">
+        <seg>, antal nycklar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>, of which &lt;x1/&gt; is dust from change</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T194138Z">
+        <seg>, varav &lt;x1/&gt; är damm från växel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>, which can break the anonymity of ring signature.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T062346Z">
+        <seg>, vilket kan bryta "the anonymity of ring signature".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--restore-deterministic-wallet uses --generate-new-wallet, not --wallet-file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055058Z">
+        <seg>--restore-deterministic-wallet använder --generate-new-wallet, inte --wallet-file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T200759Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0 or 1</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T195957Z">
+        <seg>0 eller 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0, 1, 2, 3, or 4</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T195950Z">
+        <seg>0, 1, 2, 3 eller 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b&gt;A Bitcoin wallet&lt;/b&gt; is as simple as a single pairing of a Bitcoin address with its corresponding Bitcoin private key.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171018T183727Z">
+        <seg>&lt;b&gt;En bitcoinplånbok&lt;/b&gt; är helt enkelt ett par, bestående av en bitcoinadress och dess tillhörande privata nyckel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b&gt;Add funds&lt;/b&gt; to this wallet by instructing others to send bitcoins to your Bitcoin address.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T080902Z">
+        <seg>&lt;b&gt;För över pengar&lt;/b&gt; till denna plånbok genom att be andra att skicka bitcoin till din bitcoinadress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b&gt;Check your balance&lt;/b&gt; by going to blockchain.info or blockexplorer.com and entering your Bitcoin address.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T083040Z">
+        <seg>&lt;b&gt;Kolla ditt saldo&lt;/b&gt; genom att gå till blockchain.info eller blockexplorer.com och ange din bitcoinadress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b&gt;Spend your bitcoins&lt;/b&gt; by going to blockchain.info and sweep the full balance of your private key into your account at their website.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171018T184045Z">
+        <seg>&lt;b&gt;Spendera dina bitcoin&lt;/b&gt; genom att gå till blockchain.info och svepa din privata nyckels hela saldo till ditt konto på deras webbplats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b&gt;To safeguard this wallet&lt;/b&gt; you must print or otherwise record the Bitcoin address and private key.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171018T184439Z">
+        <seg>&lt;b&gt;För att skydda denna plånbok&lt;/b&gt; måste du skriva ut eller på annat spara bitcoinadressen och den privata nyckeln.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br /&gt;Tip: Double check you are offline by trying</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T081058Z">
+        <seg>&lt;br /&gt;Tips: Kontrollera dessutom att du är offline genom att försöka nå </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;min_amount&gt; should be smaller than &lt;max_amount&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T170747Z">
+        <seg>&lt;min_belopp&gt; should be mindre än &lt;max_belopp&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;mixin_count&gt; is the number of extra inputs to include for untraceability.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064457Z">
+        <seg>&lt;mixin_count&gt; är det antal "extra inputs to include för untraceability".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;priority&gt; is the priority of the transaction.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T183424Z">
+        <seg>&lt;prioritet&gt; är transaktionens prioritet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;x1/&gt; change to &lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T123123Z">
+        <seg>&lt;x1/&gt; växel till &lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;x5/&gt;Is this okay?</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064319Z">
+        <seg>&lt;x5/&gt;Är this okay?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A total of &lt;x1/&gt; from dust change will be sent to dust address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T194230Z">
+        <seg>A total of &lt;x1/&gt; från växeldamm kommer att skickas till damm-adress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T054816Z">
+        <seg>Addera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Address book is empty.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T060449Z">
+        <seg>Adressboken är tom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Address:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T060509Z">
+        <seg>Adress:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Addresses per page:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T054829Z">
+        <seg>Adresser per sida:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Addresses to generate:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T180430Z">
+        <seg>Antal adresser att skapa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Algorithm: SHA256(passphrase)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T182707Z">
+        <seg>Algoritm: SHA256(lösenfras)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All synchronous unit tests passed.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T171413Z">
+        <seg>Alla synkrona enhetstester lyckades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Allow communicating with a daemon that uses a different RPC version</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T055322Z">
+        <seg>Tillåt kommunikation med en daemon som använder en annan version av RPC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also, running the bitcoin daemon on your web server means your private keys are hosted on the server and could get stolen if your web server is hacked.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T181125Z">
+        <seg>Att köra bitcoindemonen på din webbserver innebär dessutom att dina privata nycklar lagras på servern och kan stjälas om din webbserver blir hackad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Always use "exit" command when closing monero-wallet-cli to save your
+current session's state.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T221742Z">
+        <seg>Använd alltid kommandot "exit" när du stänger monero-wallet-cli så att ditt aktuella sessionstillstånd sparas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Amount:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T060109Z">
+        <seg>Belopp:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An important part of creating a Bitcoin wallet is ensuring the random numbers used to create the wallet are truly random.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171018T203743Z">
+        <seg>Ett viktigt steg när det gäller att skapa en bitcoinplånbok är att säkerställa att de slumptal som används för att skapa plånboken verkligen är slumpmässiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>At least one of Electrum-style word list and private view key must be specified</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T153636Z">
+        <seg>Åtminstone en av "Electrum-style" ordlista och privat visningsnyckel måste anges</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Attempting to generate or restore wallet, but specified file(s) exist.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T050323Z">
+        <seg>Försöker skapa eller återskapa plånbok, men "specified" fil(er) existerar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Attempting to save transaction to file, but specified file(s) exist.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T064154Z">
+        <seg>Försöker spara transaktion till fil, men angiven fil finns redan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Available options: seed language - set wallet seed language; always-confirm-transfers &lt;1|0&gt; - whether to confirm unsplit txes; print-ring-members &lt;1|0&gt; - whether to print detailed information about ring members during confirmation; store-tx-info &lt;1|0&gt; - whether to store outgoing tx info (destination address, payment ID, tx secret key) for future reference; default-mixin &lt;n&gt; - set default mixin (default is 4); auto-refresh &lt;1|0&gt; - whether to automatically sync new blocks from the daemon; refresh-type &lt;full|optimize-coinbase|no-coinbase|default&gt; - set wallet refresh behaviour; priority [0|1|2|3|4] - default/unimportant/normal/elevated/priority fee; confirm-missing-payment-id &lt;1|0&gt;; ask-password &lt;1|0&gt;; unit &lt;monero|millinero|micronero|nanonero|piconero&gt; - set default monero (sub-)unit; min-outputs-count [n] - try to keep at least that many outputs of value at least min-outputs-value; min-outputs-value [n] - try to keep at least min-outputs-count outputs of at least that value; merge-destinations &lt;1|0&gt; - whether to merge multiple payments to the same destination address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T152753Z">
+        <seg>Tillgängliga alternativ: seed language - set plånbok seed language; always-confirm-transfers &lt;1|0&gt; - whether to bekräfta "unsplit txes"; print-ring-members &lt;1|0&gt; - whether skriva ut detaljerad information om ringmedlemmar "during" bekräftelse; store-tx-info &lt;1|0&gt; - whether to store utgående tx info (destinationsadress, betalnings-ID, hemlig nyckel för transaktion) för framtida referens; default-mixin &lt;n&gt; - set default mixin (default is 4); auto-refresh &lt;1|0&gt; - whether automatisk synka nya block från daemonen; refresh-type &lt;full|optimize-coinbase|no-coinbase|default&gt; - set plånbok refresh beteende; prioritet [0|1|2|3|4] - default/unimportant/normal/elevated/priority fee; confirm-missing-payment-id &lt;1|0&gt;; ask-password &lt;1|0&gt;; unit &lt;monero|millinero|micronero|nanonero|piconero&gt; - set default monero (sub-)unit; min-outputs-count [n] - try to keep at least that many outputs of value at least min-outputs-value; min-outputs-value [n] - try to keep at least min-outputs-count outputs of at least that value; merge-destinations &lt;1|0&gt; - "whether to merge multiple" betalningar till samma destinationsadress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>BIP38 Encrypt?</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T180452Z">
+        <seg>BIP38-kryptera?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Backup the file you just created to a secure location.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T081552Z">
+        <seg>Gör en backup-kopia av filen du just skapade och spara den på en säker plats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Bad signature</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T063741Z">
+        <seg>"Bad" signatur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Bad signature from</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T060915Z">
+        <seg>Bad signature från</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Balance:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T182324Z">
+        <seg>Saldo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Below we show the Bitcoin Address and Public Key that corresponds to your Private Key as well as your Private Key in the most popular encoding formats (WIF, WIFC, HEX, B64).</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T192934Z">
+        <seg>Nedan visas den bitcoinadress och offentliga nyckel som hör ihop med din privata nyckel, tillsammans med den privata nyckeln, i de vanligaste kodningsformaten (WIF, WIFC, HEX, B64).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Bin size:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bitcoin Address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T175749Z">
+        <seg>Bitcoinadress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bitcoin Address Compressed</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T184229Z">
+        <seg>Komprimerad bitcoinadress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bitcoin Address:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171018T172725Z">
+        <seg>Bitcoinadress:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bitcoin v0.6+ stores public keys in compressed format.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T192939Z">
+        <seg>Bitcoin v0.6 och senare sparar offentliga nycklar i komprimerat format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bitcoins will safely pile up on the block chain.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T191022Z">
+        <seg>Bitcoin kommer tryggt att samlas upp på blockkedjan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Blockchain saved</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T203455Z">
+        <seg>Blockkedjan sparad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Blocks received:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064050Z">
+        <seg>Mottagna block:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Both Electrum-style word list and private key(s) specified</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T153655Z">
+        <seg>Både "Electrum-style" ordlista och privat nyckel har angivits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Brain Wallet</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T170324Z">
+        <seg>Minnesplånbok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bulk Wallet</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T170316Z">
+        <seg>Massplånbok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By doing this you are recording the big random number, your private key, in B6 or base 6 format.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T082941Z">
+        <seg>Genom att göra detta skriver du ned det stora slumptal - din privata nyckel - i B6 eller Base6-format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculate Vanity Wallet</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T075049Z">
+        <seg>Räkna fram den personliga plånboken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Can't find config file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064620Z">
+        <seg>Can't find konfigurationsfilen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Can't specify more than one of --wallet-file and --generate-from-json</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T060631Z">
+        <seg>Det går inte att ange mer än en av --wallet-file och --generate-from-json</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Cannot create deprecated wallets from JSON</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T213724Z">
+        <seg>Det går inte att skapa inaktuella plånböcker från JSON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot multiply two public keys.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T192444Z">
+        <seg>Det går inte att multiplicera två offentliga nycklar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Cannot specify --</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T213806Z">
+        <seg>Det går inte att ange --</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change goes to more than one address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T123101Z">
+        <seg>Växel går till mer än en adress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change wallet password</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T195348Z">
+        <seg>Ändra lösenord för plånbok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Check amount going to &lt;address&gt; in &lt;txid&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T212524Z">
+        <seg>"Check" belopp som går till &lt;adress&gt; i &lt;txid&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>bestämd form?
+</note>
+      <tuv lang="EN">
+        <seg>Check permissions or remove file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T164725Z" creationid="Dorothy" creationdate="20171026T203210Z">
+        <seg>Kontrollera behörigheter eller ta bort filen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+address
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Check tx proof for payment going to &lt;address&gt; in &lt;txid&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T063742Z">
+        <seg>Check tx "proof" för betalning som går till &lt;address&gt; i &lt;txid&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>vad är en "betald adress"?
+
+claimed - inmutade?
+
+Inmutad växel?
+
+La monnaie réclamée ne va pas à une adresse payée
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Claimed change does not go to a paid address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T194051Z">
+        <seg>"Claimed växel" går inte till en betald adress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Claimed change is larger than payment to the change address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T194846Z">
+        <seg>"Claimed växel" är större än betalning till växeladressen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Combine Shares</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T064516Z">
+        <seg>Kombinera delarna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Combined Private Key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T183928Z">
+        <seg>Kombinerad privat nyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comma Separated Values (CSV):</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T181019Z">
+        <seg>Kommaseparerade värden (CSV):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commands:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T045540Z">
+        <seg>Kommandon:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compressed address?</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T182725Z">
+        <seg>Komprimerad adress?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compressed addresses?</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T180959Z">
+        <seg>Komprimerade adresser?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Config file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T225401Z">
+        <seg>Konfigurationsfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm Passphrase:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T182652Z">
+        <seg>Bekräfta lösenfras:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Confirm rpc-bind-ip value is NOT a loopback (local) IP</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T171743Z">
+        <seg>Bekräfta rpc-bind-ip value är INTE ett loopback- (lokalt) IP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Consider SSH tunnel or SSL proxy instead.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T171908Z">
+        <seg>Överväg att använda SSH-tunnel eller SSL-proxy istället.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy and paste the above Private Key field into a text file.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T074607Z">
+        <seg>Kopiera ovanstående privata nyckel och klistra in den i en textfil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy and paste the above into the "Your-Part-Public-Key" field in the Vanity Pool Website.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T183032Z">
+        <seg>Kopiera ovanstående och klistra in det i fältet "Your public key" på webbplatsen Vanity Pool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy and paste the generated comma separated values (CSV) list to a secure text file on your computer.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T181207Z">
+        <seg>Kopiera och klistra in den genererade listan med kommaseparerade (CSV) värden i en säker textfil på din dator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright bitaddress.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not combine keys.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T142623Z">
+        <seg>Det gick inte att kombinera nycklarna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Create vs. generate
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Create non-deterministic view and spend keys</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T063147Z">
+        <seg>Skapa non-deterministic visnings- och spendernyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+passed är resultatet av ett test kanske?
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>DNSSEC validation passed</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064237Z">
+        <seg>DNSSEC validering "passed"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Daemon either is not started or wrong port was passed.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T063611Z">
+        <seg>Daemon either inte startad eller fel port was passed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+betrodd
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Daemon is local, assuming trusted</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T213750Z">
+        <seg>Daemon är lokal, "assuming trusted"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Daemon must also be launched with --testnet flag</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064420Z">
+        <seg>Daemonen måste också startas med flaggan --testnet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Daemon uses a different RPC major version (&lt;x1/&gt;) than the wallet (&lt;x2/&gt;): &lt;x3/&gt;.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T210146Z">
+        <seg>Daemonen använder en annan högre version av RPC (&lt;x1/&gt;) än plånboken (&lt;x2/&gt;): &lt;x3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Decrypt BIP38</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T165752Z">
+        <seg>Dekryptera BIP38</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Description:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T060528Z">
+        <seg>Beskrivning:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Display Electrum-style mnemonic seed</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T184352Z">
+        <seg>Visa Electrum-style "mnemonic" frö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+private spend key vs secret spend key
+</note>
+      <tuv lang="EN">
+        <seg>Display private spend key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T184352Z">
+        <seg>Visa privat spendernyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>private view key vs secret view key
+</note>
+      <tuv lang="EN">
+        <seg>Display private view key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T064401Z" creationid="Dorothy" creationdate="20171026T202025Z">
+        <seg>Visa privat visningsnyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Donating</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064314Z">
+        <seg>Donerar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Donations:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T170736Z">
+        <seg>Donationer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Either update one of them, or use --allow-mismatched-daemon-version.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T210132Z">
+        <seg>Antingen uppdatera en av dem, eller använd --allow-mismatched-daemon-version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Electrum-style word list failed verification</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T164054Z">
+        <seg>det gick inte att verifiera Electrum-style ordlista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+trusted	betrodd
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Enable commands which rely on a trusted daemon</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T055154Z">
+        <seg>Aktivera kommandon som "beror" på en trusted daemon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Enable with --trusted-daemon</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T182407Z">
+        <seg>Aktivera med --trusted-daemon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encrypt BIP38</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T165757Z">
+        <seg>Kryptera BIP38</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encrypted Private Key (Password required)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T164808Z">
+        <seg>Krypterad privat nyckel (Lösenord krävs)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter Available Shares (whitespace separated)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T065113Z">
+        <seg>Skriv in tillgängliga delar (separerade av blanksteg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter BIP38 Passphrase</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T185045Z">
+        <seg>Ange BIP38-lösenfras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter Passphrase:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T182627Z">
+        <seg>Ange lösenfras:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter Pool Part Private Key (from Vanity Pool):</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T082706Z">
+        <seg>Ange den privata nyckeln från poolen (från Vanity Pool):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter Private Key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T183936Z">
+        <seg>Ange privat nyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter Your Part Private Key (generated in Step 1 above and previously saved):</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T082541Z">
+        <seg>Ange den privata nyckeln från Steg 1 (skapades i Steg 1 ovan, och sparad sedan tidigare):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>unclear om det är
+"password for new wallet" eller
+"new password for wallet"
+</note>
+      <tuv lang="EN">
+        <seg>Enter new wallet password</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T145143Z">
+        <seg>Ange nytt lösenord för plånboken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the number corresponding to the language of your choice:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055343Z">
+        <seg>Ange det tal som motsvarar det språk du vill använda:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error with wallet rewrite:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T164542Z">
+        <seg>Fel vid återskrivning av plånbok:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error writing to file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T182713Z">
+        <seg>Fel vid skrivning till fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T202906Z" creationid="Dorothy" creationdate="20171026T202906Z">
+        <seg>Fel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exiting to not risk overwriting.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T204416Z">
+        <seg>Avslutar för att inte riskera att skriva över någonting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Export a set of outputs owned by this wallet</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T061513Z">
+        <seg>Exportera en uppsättning "outputs" som ägs av denna plånbok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Export a signed set of key images</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T061417Z">
+        <seg>Exportera en signerad uppsättning nyckel "images"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+kolla hur dessa används
+</note>
+      <tuv lang="EN">
+        <seg>F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to add short payment id:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T204501Z">
+        <seg>Det gick inte att lägga till kort betalnings-ID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+kolla var det används</note>
+      <tuv lang="EN">
+        <seg>Failed to create file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T203150Z" creationid="Dorothy" creationdate="20171026T203150Z">
+        <seg>Det gick inte att skapa fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Failed to find a suitable way to split transactions</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T163847Z">
+        <seg>Det gick inte att "find/hitta" ett suitable sätt att "split" transaktioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to find a way to create transactions.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T165428Z">
+        <seg>Det gick inte att hitta något sätt att skapa transaktioner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to import key images:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T165316Z">
+        <seg>det gick inte att importera nyckelavbildningar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to initialize wallet</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T163508Z">
+        <seg>Det gick inte att initiera plånbok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Failed to initialize wallet rpc server</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T163047Z">
+        <seg>Det gick inte att initiera plånbok "rpc server"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to load file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T203048Z">
+        <seg>Det gick inte att läsa in fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to load transaction from file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T165345Z">
+        <seg>Det gick inte att läsa in transaktion från fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to load unsigned transactions</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T063952Z">
+        <seg>Det gick inte att läsa in osignerade transaktioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to open wallet:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T164119Z">
+        <seg>Det gick inte att öppna plånbok:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to parse JSON</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T060542Z">
+        <seg>Det gick inte att parsa JSON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to parse address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T195526Z" creationid="Dorothy" creationdate="20171026T195526Z">
+        <seg>Det gick inte att parsa adressen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to parse key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T195609Z" creationid="Dorothy" creationdate="20171026T195609Z">
+        <seg>Det gick inte att parsa nyckeln</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to sign transaction</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T202642Z">
+        <seg>Det gick inte att signera transaktionen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to sign transaction:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T165214Z">
+        <seg>Det gick inte att signera transaktion:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>store --&gt; save?
+</note>
+      <tuv lang="EN">
+        <seg>Failed to store wallet:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T150116Z">
+        <seg>Det gick inte att spara plånbok:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to write transaction(s) to file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T165834Z">
+        <seg>Det gick inte att skriva transaktion(er) till fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T204421Z">
+        <seg>Fil:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For URL:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T202920Z" creationid="Dorothy" creationdate="20171026T202920Z">
+        <seg>För URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For testnet.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T203013Z" creationid="Dorothy" creationdate="20171026T203013Z">
+        <seg>För testnet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For valuable wallets it is recommended to</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T171602Z">
+        <seg>För värdefulla plånböcker rekommenderas att du</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General options</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T225426Z">
+        <seg>Allmänna alternativ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generate</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T055047Z">
+        <seg>Skapa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generate New Address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T175643Z">
+        <seg>Skapa ny adress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Generate a new random full size payment id - these will be unencrypted on the blockchain, see integrated_address for encrypted short payment ids</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T205123Z">
+        <seg>Skapa en ny slumpmässig "full size" betalnings-ID - dessa kommer att "förbli okrypterade" på blockkedjan, se integrated_address för krypterade korta betalning-ID:n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Generate a signature to prove payment to &lt;address&gt; in &lt;txid&gt; using the transaction secret key (r) without revealing it</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T153000Z">
+        <seg>Skapa en signatur för att "prove" betalning till &lt;adress&gt; i &lt;txid&gt; genom att använda hemlig nyckel för transaktion (r) utan att avslöja den</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Generate incoming-only wallet from view key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T055019Z">
+        <seg>Skapa "incoming-only" plånbok från visningsnyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Generate new wallet and save it to &lt;arg&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T203900Z">
+        <seg>Skapa ny plånbok och spara den till &lt;arg&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generate wallet from JSON format file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T150135Z">
+        <seg>Skapa plånbok från fil i JSON-format</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generate wallet from private keys</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T062416Z">
+        <seg>Skapa plånbok från privata nycklar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Generated new wallet:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T193004Z">
+        <seg>Ny plånbok skapad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generating Bitcoin Address...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T224431Z">
+        <seg>Skapar bitcoinadress …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generating addresses...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T224415Z">
+        <seg>Skapar adresser …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generating new wallet...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T054950Z">
+        <seg>Skapar ny plånbok …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Get a string note for a txid</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064540Z">
+        <seg>Get a string note för en txid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Get transaction key (r) for a given &lt;txid&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T212339Z">
+        <seg>"Get" transaktionsnyckel (r) för ett givet &lt;txid&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GitHub Repository</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T171250Z">
+        <seg>Kodförråd på GitHub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Good signature</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T063736Z">
+        <seg>"Good" signatur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Good signature from</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T060912Z">
+        <seg>Good signature från</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google "bitcoin payment notification" and subscribe to at least one bitcoin payment notification service.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T193027Z">
+        <seg>Sök på Google efter "bitcoin payment notification" och anslut dig till åtminstone en aviseringstjänst för bitcoinbetalning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Height</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T200125Z">
+        <seg>Höjd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide Art?</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T081129Z">
+        <seg>Dölj grafik?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How do I make a wallet using dice?</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T185100Z">
+        <seg>Hur skapar jag en plånbok med hjälp av tärningar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How do I use a Bulk Wallet to accept bitcoins on my website?</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T181155Z">
+        <seg>Hur använder jag en massplånbok för att acceptera bitcoin som betalning på min webbplats?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ideally save to an encrypted drive.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T183111Z">
+        <seg>Spara helst på en krypterad enhet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If omitted, the default value (see the command "set priority") is used.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064439Z">
+        <seg>If omitted, the default value (se kommandot "set priority") is used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are familiar with PGP you can download this all-in-one HTML page and check that you have an authentic version from the author of this site by matching the SHA256 hash of this HTML with the SHA256 hash available in the signed version history document linked on the footer of this site.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T175855Z">
+        <seg>Om du är van att använda PGP kan du ladda ner den kompletta HTML-sidan och verifiera att du har en autentisk version från webbplatsens upphovsmakare genom att matcha SHA256-hashen av sidans HTML med SHA256-hashen som finns tillgänglig i det signerade dokument med versionshistorik som finns länkat i sidfoten på webbplatsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you leave/refresh the site or press the "Generate New Address" button then a new private key will be generated and the previously displayed private key will not be retrievable.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T051926Z">
+        <seg>Om du lämnar/laddar om webbsidan eller trycker på knappen "Skapa ny adress" så kommer en ny privat nyckel att skapas och den tidigare visade privata nyckeln går inte längre att komma åt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you print your wallet then store it in a zip lock bag to keep it safe from water.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T180047Z">
+        <seg>Om du skriver ut plånboken så bör du förvara den i en plastpåse för att skydda den från väta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+"a set of"
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Import set of outputs owned by this wallet</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T061543Z">
+        <seg>Importera en uppsättning "outputs" som ägs av denna plånbok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Import signed key images list and verify their spent status</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T061453Z">
+        <seg>Importera signerade nyckel- "images lista" och verifera deras "spenderingsstatus"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import the bitcoin addresses into a database table on your web server.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T181223Z">
+        <seg>Importera bitcoinadresserna till en databastabell på din webbserver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Incorrect passphrase for this encrypted private key.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T165947Z">
+        <seg>Fel lösenfras för denna krypterade privata nyckel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Index,Address,Private Key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T181027Z">
+        <seg>Index, Adress, Privat nyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Index:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Input %llu/%llu: amount=&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T170504Z">
+        <seg>Input %llu/%llu: belopp=&lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>kapitalisering av ID
+
+ibland "payment id" ibland "payment ID"
+</note>
+      <tuv lang="EN">
+        <seg>Integrated address and long payment id can't be used at the same time</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T204111Z">
+        <seg>Integrerad adress och långt betalnings-ID kan inte användas samtidigt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Integrated address: account &lt;x1/&gt;, payment ID &lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T214406Z">
+        <seg>Integrerad adress: konto &lt;x1/&gt;, betalnings-ID &lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid IP address given for --</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T171802Z">
+        <seg>Ogiltig IP-adress angiven för --</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid destination address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T200612Z" creationid="Dorothy" creationdate="20171026T163307Z">
+        <seg>Ogiltig destinationsadress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid input.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T170004Z">
+        <seg>Ogiltig inmatning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid payment ID</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T204158Z">
+        <seg>Ogiltigt betalnings-ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid payment ID.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T193924Z">
+        <seg>Ogiltigt betalnings-ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is this OK?</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T202942Z" creationid="Dorothy" creationdate="20171026T202942Z">
+        <seg>är det OK?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is this okay?</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T200512Z" creationid="Dorothy" creationdate="20171026T200512Z">
+        <seg>Är detta okej?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can be encoded in a number of different formats.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T184027Z">
+        <seg>Den kan kodas i ett flertal olika format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It could take between 10 minutes to one hour for the transaction to be confirmed.&lt;br /&gt;http://www.blockexplorer.com/address/THEADDRESSGOESHERE&lt;br /&gt;&lt;br /&gt;Unconfirmed transactions can be viewed at: http://blockchain.info/ &lt;br /&gt;You should see the transaction there within 30 seconds.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T082049Z">
+        <seg>Det kan ta mellan 10 minuter och en timme för transaktionen att bekräftas.&lt;br /&gt;http://www.blockexplorer.com/address/ADRESS&lt;br /&gt;&lt;br /&gt;Obekräftade transaktioner kan ses på adressen: http://blockchain.info/ &lt;br /&gt;Du bör kunna se transaktionen där inom 30 sekunder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is important to make a backup copy of the private key and store it in a safe location.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T175829Z">
+        <seg>Det är viktigt att skapa en backup-kopia av den privata nyckeln och spara den på en säker plats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JavaScript copyrights are included in the source.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T171315Z">
+        <seg>Copyright för JavaScript finns angiven i källkoden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Just the bitcoin addresses as they will be shown to customers.)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T081720Z">
+        <seg>Spara bara bitcoinadresserna på servern eftersom de ska visas för dina kunder.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep in mind when you import your single key to a bitcoin p2p client and spend funds your key will be bundled with other private keys in the p2p client wallet.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171020T045921Z">
+        <seg>Tänk på att när du importerar din nyckel till en bitcoinklient och spenderar pengar så kommer din nyckel att sparas ihop med andra privata nycklar i klientens plånbok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key Formats: WIF, WIFC, HEX, B64, B6, MINI, BIP38</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T183958Z">
+        <seg>Nyckelformat: WIF, WIFC, HEX, B64, B6, MINI, BIP38</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Key file found but not wallet file.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T224216Z">
+        <seg>Nyckelfil hittades men inte plånboksfilen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Key file not found.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T063320Z">
+        <seg>Nyckelfilen kunde inte hittas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>List of available languages for your wallet's seed:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055315Z">
+        <seg>Lista över tillgängliga språk för din plånboks frö/startvärde:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Loaded %lu transactions, for &lt;x1/&gt;, fee &lt;x2/&gt;, &lt;x3/&gt;, &lt;x4/&gt;, with min mixin %lu.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T140204Z">
+        <seg>Läste in %lu transaktioner, för &lt;x1/&gt;, avgift &lt;x2/&gt;, &lt;x3/&gt;, &lt;x4/&gt;, med "min mixin" %lu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loaded ok</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T151709Z">
+        <seg>Inläst ok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading wallet...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T224508Z">
+        <seg>Läser in plånbok …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Locked blocks too high, max 1000000 (˜4 yrs)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T223329Z">
+        <seg>Låsta block för högt, max 1000000 (˜4 år)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Logging to &lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T225446Z">
+        <seg>Loggar till &lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Logging to:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T225437Z">
+        <seg>Loggar till:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MOVE your mouse around to add some extra randomness...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T224446Z">
+        <seg>RÖR på musen för att skapa extra slumpmässighet …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Make sure this is intentional!</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T062405Z">
+        <seg>Se till att detta är "intentional"!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many website hosting packages don't support installing the bitcoin daemon.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T081353Z">
+        <seg>Många webbhotell tillåter inte installation av bitcoindemonen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matching integrated address:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T202838Z" creationid="Dorothy" creationdate="20171026T202838Z">
+        <seg>Matchande integrerad adress:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Max amount found:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T170812Z">
+        <seg>Max belopp "found":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Max block height:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064112Z">
+        <seg>Max blockhöjd:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Max number of threads to use for a parallel job</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T225244Z">
+        <seg>Max antal trådar att använda för ett parallellt jobb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Min amount found:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064118Z">
+        <seg>Min belopp "found":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Min block height:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064108Z">
+        <seg>"Min" blockhöjd:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Minimum share threshold needed to combine</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T083521Z">
+        <seg>Minsta antal delar som krävs för kombinering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Mining started in daemon</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T063727Z">
+        <seg>Brytning startad i daemonen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Mining stopped in daemon</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T063759Z">
+        <seg>Brytning "stopped in daemon"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Monero Address =</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T202934Z" creationid="Dorothy" creationdate="20171026T202934Z">
+        <seg>Monero-adress =</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Money successfully sent, transaction</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T183046Z">
+        <seg>Money successfully sent, transaktion:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Money successfully sent, transaction:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T183013Z">
+        <seg>Money successfully sent, transaktion:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Multiple payments can be made at once by adding &lt;address_2&gt; &lt;amount_2&gt; etcetera (before the payment ID, if it's included)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T063702Z">
+        <seg>Flera betalningar kan "göras" på en gång genom att lägga till &lt;adress_2&gt; &lt;belopp_2&gt; etcetera (före betalnings-ID, om det inkluderas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiply</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T183209Z">
+        <seg>Multiplicera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+kolla andra "ange" vilka src-ord kan matcha?
+
+specify vs. andra "ange"
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Must specify --wallet-file or --generate-from-json or --wallet-dir</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T060535Z">
+        <seg>Måste ange --wallet-file eller --generate-from-json eller --wallet-dir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>No address given</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T063937Z">
+        <seg>Ingen adress angavs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>No data supplied, cancelled</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T063348Z">
+        <seg>Ingen data "supplied, cancelled"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>No incoming available transfers</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064150Z">
+        <seg>Inga "incoming available transfers"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>No incoming transfers</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064146Z">
+        <seg>INga "incoming transfers"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>No incoming unavailable transfers</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064156Z">
+        <seg>Inga "incoming unavailable transfers"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>No outputs found, or daemon is not ready</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T164438Z">
+        <seg>No outputs found, eller så är daemonen inte färdig/redo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>No payment id is included with this transaction.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T231157Z">
+        <seg>Inget betalnings-ID har inkluderats med denna transaktion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>No payments with id</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T164625Z">
+        <seg>Inga betalningar med id</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>No unmixable outputs found</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T063928Z">
+        <seg>Inga "unmixable outputs" kunde hittas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>kolla "supplied" konsistens
+
+view key = visningsnyckel
+</note>
+      <tuv lang="EN">
+        <seg>No view key supplied, cancelled</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T152405Z">
+        <seg>Ingen visningsnyckel angiven, avbruten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No warranty.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T171322Z">
+        <seg>Ingen garanti lämnas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not enough money in unlocked balance</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T194458Z">
+        <seg>Inte tillräckligt med pengar i olåst saldo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of shares</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T075247Z">
+        <seg>Antal delar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OR type some random characters into this textbox</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171018T173546Z">
+        <seg>ELLER skriv några slumpmässiga tecken i detta fält</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once you receive this notification, which could be programmatically automated, you can process the customer's order.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T081906Z">
+        <seg>Så fort du har mottagit denna avisering, vilket kan automatiseras programmatiskt, kan du ta hand om kundens beställning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only available when combining two private keys</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T170217Z">
+        <seg>Endast tillgänglig när två privata nycklar kombineras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Source JavaScript Client-Side Bitcoin Wallet Generator</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T185955Z">
+        <seg>Bitcoinplånboksgenerator i JavaScript baserad på öppen källkod och som körs på klienten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opened wallet</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T141027Z">
+        <seg>Öppnade plånbok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opened watch-only wallet</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T141346Z">
+        <seg>Öppnade plånbok för granskning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Originating block heights:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064243Z">
+        <seg>"Originating" blockhöjder:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Otherwise, you might need to synchronize 
+your wallet again (your wallet keys are NOT at risk in any case).</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T221838Z">
+        <seg>Annars kan du bli tvungen att synkronisera
+din plånbok igen (din plånboks nycklar är INTE "at risk" i vilket fall som helst).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Outputs exported to</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T063824Z">
+        <seg>"Outputs" exporterade till</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Outputs per *:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Override with --</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T063701Z">
+        <seg>Åsidosätt med --</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PGP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>PLEASE NOTE: the following 25 words can be used to recover access to your wallet.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055006Z">
+        <seg>OBSERVERA: följande 25 ord kan användas för att "recover"/återfå tillgång till din plånbok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paper Wallet</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T170309Z">
+        <seg>Pappersplånbok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Passphrase required for BIP38 key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T165955Z">
+        <seg>Lösenfras krävs för BIP 38-nyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Passphrase:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T180440Z">
+        <seg>Lösenfras:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>"granskningsplånbok"?
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Password for new watch-only wallet</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T141503Z">
+        <seg>Lösenord för ny plånbok för granskning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Payment ID:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T060520Z">
+        <seg>Betalnings-ID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Physical randomness is better than computer generated pseudo-randomness.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T185115Z">
+        <seg>Fysisk slumpmässighet är bättre än datorgenererad pseudo-slumpmässighet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Please do not store them in your email or on file storage services outside of your immediate control.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T205344Z">
+        <seg>Spara dem inte i din e-post eller på något lagringsutrymme som du inte har direkt kontroll över.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Please make sure daemon is running or restart the wallet with the correct daemon address.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T221008Z">
+        <seg>Se till att daemonen kör eller starta om plånboken med korrekt daemonadress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please make sure daemon is running.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T201747Z">
+        <seg>Se till att daemonen körs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Please proceed to upgrade your wallet.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171028T084800Z">
+        <seg>Please proceed to upgrade your plånbok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please try again later.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T202331Z">
+        <seg>Försök igen senare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please try again or use Ctrl-C to quit.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T223930Z">
+        <seg>Försök igen eller använd Ctrl-C för att avsluta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please try again.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T221036Z">
+        <seg>Försök igen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+again?
+</note>
+      <tuv lang="EN">
+        <seg>Please try later</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T063959Z">
+        <seg>Försök senare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Please use start_mining [&lt;number_of_threads&gt;] [do_bg_mining] [ignore_battery], &lt;number_of_threads&gt; should be from 1 to</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T062431Z">
+        <seg>Använd start_mining [&lt;number_of_threads&gt;] [do_bg_mining] [ignore_battery], &lt;number_of_threads&gt; ska vara från 1 till</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Please use the new seed that we provide.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T063714Z">
+        <seg>Använd det nya frö som vi "use the new seed that we provide."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Please write them down and store them somewhere safe and secure.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055038Z">
+        <seg>Skriv ner dem och spara dem på en säker "safe och secure".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please, make sure daemon is running.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T060839Z">
+        <seg>Se till att daemonen körs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Print</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T054952Z">
+        <seg>Skriv ut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Private Key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T080532Z">
+        <seg>Privat nyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Private Key (Wallet Import Format):</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T182843Z">
+        <seg>Privat nyckel (importformat för plånbok, WIF):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Private Key BIP38 Format (58 characters base58, starts with '6P'):</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T090054Z" creationid="Dorothy" creationdate="20171021T090033Z">
+        <seg>Privat nyckel i BIP38-format (58 tecken i Base58, börjar med '6P'):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Private Key Base6 Format (99 characters [0-5]):</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T090007Z" creationid="Dorothy" creationdate="20171021T085923Z">
+        <seg>Privat nyckel i Base6-format (99 tecken [0-5]):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Private Key Base64 (44 characters):</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T085950Z">
+        <seg>Privat nyckel i Base64-format (44 tecken):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Private Key Hexadecimal Format (64 characters [0-9A-F]):</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T185003Z">
+        <seg>Privat nyckel i hexadecimalt format (64 tecken [0-9A-F]):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Private Key Mini Format (22, 26 or 30 characters, starts with an 'S'):</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T185035Z">
+        <seg>Privat nyckel i miniformat (22, 26 eller 30 tecken, börjar med ett 'S'):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Private Key WIF Compressed&lt;br /&gt;52 characters base58, starts with a</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T085222Z">
+        <seg>Privat nyckel, WIF-komprimerad&lt;br /&gt;52 tecken i Base58, börjar med ett</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Private Key WIF&lt;br /&gt;51 characters base58, starts with a</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T090042Z">
+        <seg>Privat nyckel (WIF)&lt;br /&gt; 51 tecken i Base58, börjar med ett</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Private Key:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T060326Z">
+        <seg>Privat nyckel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Provide an option on your website's shopping cart for your customer to pay in Bitcoin.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T081746Z">
+        <seg>Erbjud möjligheten för dina kunder att betala i bitcoin i din webbplats shoppingvagn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Provide it as the optional third parameter if you have it elsewhere.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T163944Z">
+        <seg>Ange den som den valfria tredje parametern om du har den någon annanstans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Public Key (130 characters [0-9A-F]):</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T192948Z">
+        <seg>Offentlig nyckel (130 tecken [0-9A-F]):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Public Key (compressed, 66 characters [0-9A-F]):</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T193000Z">
+        <seg>Offentlig nyckel (komprimerad, 66 tecken [0-9A-F]):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RPC error:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T044234Z">
+        <seg>RPC-fel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RPC username/password is stored in file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T182820Z">
+        <seg>Användarnamn/lösenord för RPC har sparats i fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Random payment ID:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T063338Z">
+        <seg>Slumpmässigt betalnings-ID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reason:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T204604Z">
+        <seg>Orsak:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Recover wallet using Electrum-style mnemonic seed</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171028T084734Z">
+        <seg>Recover plånbok using Electrum-style mnemonic seed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T175635Z">
+        <seg>Ladda om</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Refresh done, blocks received:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T063838Z">
+        <seg>Uppdatering färdig, "blocks received":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Regenerating...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T224326Z">
+        <seg>Återskapar …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reloading the page will create a new session.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T175622Z">
+        <seg>Att ladda om sidan kommer att skapa en ny session.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace THEADDRESSGOESHERE with the bitcoin address you are checking.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T082009Z">
+        <seg>Byt ut texten ADRESS nedan, mot den bitcoinadress du vill kolla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+utgångar
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Rescan blockchain for spent outputs</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T212331Z">
+        <seg>"Rescan" blockkedjan för "spent outputs"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Rescan blockchain from scratch</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T061001Z">
+        <seg>Rescan blockchain från scratch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Rescan spent can only be used with a trusted daemon</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T165551Z">
+        <seg>"Rescan spent" kan endast användas med en betrodd daemon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Restore from specific blockchain height</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T060745Z">
+        <seg>Restore från angiven blockkedja "höjd"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Restore height is:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T062459Z">
+        <seg>"Restore" höjd är:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Restricts to view-only commands</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064429Z">
+        <seg>Restricts till view-only kommandon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RingCT</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T063727Z" creationid="Dorothy" creationdate="20171102T063727Z">
+        <seg>"RingCT"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rows to generate:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T180508Z">
+        <seg>Rader att skapa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SECRET</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T054916Z">
+        <seg>HEMLIG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SHARE</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T192625Z">
+        <seg>OFFENTLIG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Same as transfer, but using an older transaction building algorithm</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064009Z">
+        <seg>Samma som transfer, "but using an older transaction building algorithm"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Satoshi advised that one should never delete a wallet.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T080930Z">
+        <seg>Satoshi förespråkade att man aldrig ska radera en plånbok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Save a watch-only keys file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T064345Z">
+        <seg>Spara en "watch-only nycklar"-fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save current blockchain data</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T045716Z">
+        <seg>Spara aktuella blockkedje-data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save wallet data</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T193244Z">
+        <seg>Spara plånboksdata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select 'Add' to add two public keys to get a bitcoin address.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T192456Z">
+        <seg>Välj "Addera" för att lägga ihop två offentliga nycklar och skapa en bitcoinadress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Send all unmixable outputs to yourself with mixin 0</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064508Z">
+        <seg>Skicka alla "unmixable outputs to yourself with mixin 0"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Sending &lt;x1/&gt;.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T184023Z">
+        <seg>Skickar &lt;x1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+kollal annan förekomst av tx-ID
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Set an arbitrary string note for a txid</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064532Z">
+        <seg>Set an arbitrary string note för en txid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Short payment ID should only be used in an integrated address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T204145Z">
+        <seg>Kort betalnings-ID ska endast användas i en integrerad adress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show blockchain height</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T195910Z" creationid="Dorothy" creationdate="20171026T195910Z">
+        <seg>Visa blockkedjans höjd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show current wallet balance</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T045744Z">
+        <seg>Visa aktuellt saldo för plånboken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show current wallet public address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T193014Z">
+        <seg>Visa plånbokens aktuella offentliga adress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Show information about a transfer to/from this address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T215259Z">
+        <seg>Visa information om en överföring till/från denna adress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show this help</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T045836Z">
+        <seg>Visa denna hjälp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Show wallet status information</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171028T084518Z">
+        <seg>Show plånbok status information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show?</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T182632Z">
+        <seg>Visa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Sign a transaction from a file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T183304Z">
+        <seg>Sign en transaktion från en fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sign the contents of a file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T061303Z">
+        <seg>Signera innehållet i en fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Signature decoding error</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T164634Z">
+        <seg>Fel vid avkodning av signatur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Signature header check error</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T164827Z">
+        <seg>Fel vid kontroll av signaturhuvud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Signature:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T223545Z">
+        <seg>Signatur:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Signed key images exported to</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T063812Z">
+        <seg>Signerade nyckel" images" exporterades till</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Single Wallet</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T170256Z">
+        <seg>Enkel plånbok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some synchronous unit tests DID NOT pass.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T171440Z">
+        <seg>Några synkrona enhetstester LYCKADES INTE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Specify Electrum seed for wallet recovery/creation</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171028T084733Z">
+        <seg>Specify Electrum seed for plånbok recovery/creation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+ip --&gt; IP
+
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Specify ip to bind rpc server</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T171644Z">
+        <seg>Ange IP-adress "to bind rpc server"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Specify log file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T225329Z">
+        <seg>Ange loggfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Specify username[:password] for daemon RPC client</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064546Z">
+        <seg>Specify username[:password] för daemon RPC client</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specify username[:password] required for RPC server</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T171704Z">
+        <seg>Ange användarnamn[:lösenord] som krävs av RPC-servern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Split Wallet</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T170340Z">
+        <seg>Uppdelad plånbok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard address:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T214413Z">
+        <seg>Standardadress:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start index:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T180458Z">
+        <seg>Startindex:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Starting refresh...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T063821Z">
+        <seg>Startar refresh...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Starting wallet rpc server</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T225030Z">
+        <seg>Startar plånbok rpc server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1 - Generate your "Step1 Key Pair"</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T082306Z">
+        <seg>Steg 1 - Skapa ett nyckelpar för Steg 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1 Private Key:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T192732Z">
+        <seg>Privat nyckel från Steg 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1 Public Key:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T192710Z">
+        <seg>Offentlig nyckel från Steg 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 2 - Calculate your Vanity Wallet</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T074920Z">
+        <seg>Steg 2 - Räkna fram din personliga plånbok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stop mining in daemon</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T172040Z">
+        <seg>Avbryt brytning i daemonen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Stopped wallet rpc server</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171028T084311Z">
+        <seg>Stopped plånbok rpc server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stopping each time to record the value of the die.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T082956Z">
+        <seg>Pausa varje gång för att skriva ned utfallet för tärningen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stored ok</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T151701Z">
+        <seg>Sparad ok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Storing wallet...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T224859Z">
+        <seg>Sparar plånbok …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Submit a signed transaction from a file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T183252Z">
+        <seg>Submit en signerad transaktion från en fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such a wallet has been generated for you in your web browser and is displayed above.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T175817Z">
+        <seg>En sådan plånbok har skapats åt dig i din webbläsare och visas ovan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Behöver hitta något för denna:
+
+fr:	balayage
+it:	lo sweep
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Sweeping</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T063839Z">
+        <seg>"Sweeping"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Sweeping &lt;x1/&gt; for a total fee of &lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064301Z">
+        <seg>Sweeping &lt;x1/&gt; för en total avgift på &lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Sweeping &lt;x1/&gt; in %llu transactions for a total fee of &lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T230447Z">
+        <seg>Sweeping &lt;x1/&gt; i %llu transaktioner för en total avgift på &lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronize transactions and balance</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T183514Z">
+        <seg>Synkronisera transaktioner och saldo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+kolla hur dessa används
+</note>
+      <tuv lang="EN">
+        <seg>T</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T222632Z">
+        <seg>S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TESTNET EDITION ACTIVATED</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171018T172636Z">
+        <seg>TESTNETVERSION AKTIVERAD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Private Key of both entries match.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T170225Z">
+        <seg>Den privata nyckeln i de båda inmatningsfälten är densamma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Public Key of both entries match.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T193049Z">
+        <seg>Den offentliga nyckeln i de båda inmatningsfälten är densamma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The above is the Private Key to load into your wallet.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T183839Z">
+        <seg>Ovanstående är den privata nyckel som ska läsas in i din plånbok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The above is the Public Key in hexadecimal format.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T192922Z">
+        <seg>Ovanstående är den offentliga nyckeln i hexadecimalt format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The above is your new address that should include your required prefix.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171020T050615Z">
+        <seg>Ovanstående är din nya adress och ska inbegripa ditt önskade prefix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The client now also supports import and export of private keys with importprivkey/dumpprivkey.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T184111Z">
+        <seg>Klienten stödjer numera också import och export av privata nycklar med kommandona 'importprivkey' och 'dumpprivkey'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The easiest way to generate physical randomness is with dice.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T185129Z">
+        <seg>Det lättaste sättet att skapa fysisk slumpmässighet är att använda tärningar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The format of the exported private key is determined by whether the address was generated in an old or new wallet.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T184121Z">
+        <seg>Formatet hos den exporterade privata nyckeln bestäms av huruvida adressen skapades i en gammal eller ny plånbok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The higher the priority, the higher the fee of the transaction.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T183403Z">
+        <seg>Ju högre prioritet, desto högre transaktionsavgift.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The passphrase does not match the confirm passphrase.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T050247Z">
+        <seg>Lösenfraserna matchar inte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The passphrase you entered is too short.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171018T204443Z">
+        <seg>Den angivna lösenfrasen är för kort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text you entered is not a valid Private Key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T050120Z">
+        <seg>Den angivna texten är inte en giltig privat nyckel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text you entered is not a valid Private Key!</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171018T204223Z">
+        <seg>Den angivna texten är inte en giltig privat nyckel!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The traditional approach to accepting bitcoins on your website requires that you install the official bitcoin client daemon ("bitcoind").</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T190219Z">
+        <seg>För att acceptera bitcoin på en webbplats har det hittills krävts att man installerar bitcoins officiella klient-demon ("bitcoind").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The transaction fee is &lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T183833Z">
+        <seg>Transaktionsavgiften är &lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then you don't have to worry about your bitcoin wallet being stolen if your web server is hacked.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T181139Z">
+        <seg>Då behöver du inte oroa dig för att din bitcoinplånbok ska stjälas om din webbserver blir hackad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are various services that will notify you via Web Services, API, SMS, Email, etc.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T055853Z">
+        <seg>Det finns flera olika tjänster som kan meddela dig via Web Services, API, SMS, E-post och så vidare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a log of all the Bitcoin Addresses and Private Keys you generated during your current session.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171018T184603Z">
+        <seg>Detta är en logg över alla bitcoinadresser och privata nycklar du har skapat under den nuvarande sessionen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>read-only	skrivskyddad
+view only	???
+
+ska heta "view only"
+
+Audit-plånbok
+granskning / bevakning
+</note>
+      <tuv lang="EN">
+        <seg>This is a watch only wallet</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T170553Z">
+        <seg>Detta är en granskningsplånbok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This is usually due to dust which is so small it cannot pay for itself in fees, or trying to send more money than the unlocked balance, or not leaving enough for fees</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T194833Z">
+        <seg>Detta beror vanligtvis på damm som är så litet att det inte kan betala för sig självt i avgifter, eller ett försök att skicka mer pengar än olåst saldo, eller att inte lämna tillräckligt för att täcka avgifter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This site does not have knowledge of your private key.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T175836Z">
+        <seg>Denna webbplats har ingen kännedom om din privata nyckel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This transaction has &lt;x1/&gt; confirmations</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T163642Z">
+        <seg>Denna transaktion har &lt;x1/&gt; bekräftelser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This transaction will unlock on block %llu, in approximately &lt;x1/&gt; days (assuming 2 minutes per block)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T194335Z">
+        <seg>Denna transaktion kommer att låsas upp vid block %llu, om ungefär &lt;x1/&gt; dagar (förutsatt en blocktid på 2 minuter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This will result in a transaction fee being applied to each transaction, for a total fee of &lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T183944Z">
+        <seg>Detta kommer att "resultera" i en transaktionsavgift "being applied" till varje transaktion, "för" en sammanlagd avgift på &lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a Bitcoin private key you only need one six sided die which you roll 99 times.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T185157Z">
+        <seg>För att skapa en privat bitcoinnyckel behöver du bara en sexsidig tärning som du kastar 99 gånger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To manually check if a payment has arrived you can use Block Explorer.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T181729Z">
+        <seg>För att själv kontrollera om en betalning har kommit fram kan du använda Block Explorer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To start synchronizing with the daemon, use "refresh" command.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T221621Z">
+        <seg>För att börja synkronisering med daemonen, använd kommandot "refresh".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Total count:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Transaction %llu/%llu: txid=&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T183650Z">
+        <seg>Transaktion %llu/%llu: txid=&lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Transaction ID not found</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T203423Z">
+        <seg>Transaktions-ID kunde inte hittas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Transaction successfully signed to file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T183000Z">
+        <seg>Transaktion "successfully" signed to file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation: &lt;&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171018T172009Z" creationid="Dorothy" creationdate="20171018T172009Z">
+        <seg>Översättning: ordtrogen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Treat a paper wallet like cash.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T052029Z">
+        <seg>Behandla en pappersplånbok som om den var kontanter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tx key:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T060015Z">
+        <seg>Tx-nyckel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tx pubkey was not found</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T182646Z">
+        <seg>Tx pubkey kunde inte hittas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tx secret key was found for the given txid, but you've also provided another tx secret key which doesn't match the found one.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T162632Z">
+        <seg>Tx secret key hittades för det givna txid, men du har också angivit en annan "tx" hemlig nyckel som inte matchar den funna nyckeln.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tx secret key wasn't found in the wallet file.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T163933Z">
+        <seg>Den hemliga transaktionsnyckeln kunde inte hittas i plånboksfilen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unhandled exception</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T204626Z">
+        <seg>Ohanterat undantag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unknown exception:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T204614Z">
+        <seg>Okänt undantag:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsigned transaction(s) successfully written to file:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T194417Z">
+        <seg>Onsignerade transaktioner skrevs till fil:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T060127Z">
+        <seg>Användning:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Use "help" command to see the list of available commands.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T221657Z">
+        <seg>Använd kommandot "help" för att se en lista över tillgängliga kommandon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Use daemon instance at &lt;host&gt;:&lt;port&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064335Z">
+        <seg>Använd daemon instance at &lt;host&gt;:&lt;port&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Use daemon instance at host &lt;arg&gt; instead of localhost</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064346Z">
+        <seg>Använd daemon instance at host &lt;arg&gt; instead of localhost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Use daemon instance at port &lt;arg&gt; instead of 18081</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064352Z">
+        <seg>Använd daemon instance at port &lt;arg&gt; instead of 18081</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the Bulk Wallet tab to pre-generate a large number of bitcoin addresses (10,000+).</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171018T202555Z">
+        <seg>Använd fliken Massplånbok för att i förväg skapa ett stort antal bitcoinadresser (10.000+).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the original wallet file you generated in step 1 to spend them.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T052824Z">
+        <seg>Använd den ursprungliga plånboksfilen du skapade i steg 1 för att spendera dem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use wallet &lt;arg&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T200936Z">
+        <seg>Använd plånbok &lt;arg&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username specified with --</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T171938Z">
+        <seg>Användarnamn angivet med --</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Valid values in priority order (from lowest to highest) are: unimportant, normal, elevated, priority.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T062229Z">
+        <seg>Giltiga värden i prioritetsordning (från lägsta till högsta) är: unimportant, normal, elevated, priority.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vanity Bitcoin Address:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T183405Z">
+        <seg>Personlig bitcoinadress:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vanity Private Key (WIF):</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T183828Z">
+        <seg>Personlig privat nyckel (WIF):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vanity Public Key (HEX):</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T192911Z">
+        <seg>Personlig offentlig nyckel (HEX):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vanity Wallet</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T170333Z">
+        <seg>Personlig plånbok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Verify a signature on the contents of a file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T061353Z">
+        <seg>Verifera signaturen på innehållet i en fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version &lt;x1/&gt; too new, we can only grok up to &lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T165531Z">
+        <seg>Version &lt;x1/&gt; är för ny, vi förstår bara upp till &lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version History</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T171036Z">
+        <seg>Versionshistorik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T182658Z">
+        <seg>Visa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View Details</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T184015Z">
+        <seg>Visa detaljer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View key:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T221547Z">
+        <seg>Visningsnyckel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>WARNING: DNSSEC validation was unsuccessful, this address may not be correct!</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064257Z">
+        <seg>VARNING: "DNSSEC validation was unsuccessful", denna adress kanske inte är korrekt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>WARNING: failed to determine number of confirmations!</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T163704Z">
+        <seg>VARNING: det gick inte att "determine" antal bekräftelser!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>WARNING: this transaction is not yet included in the blockchain!</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T163729Z">
+        <seg>VARNING: denna transaktion är ännu inte "included" i blockkedjan!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wallet Details</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T170730Z">
+        <seg>Plånboksdetaljer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wallet and key files found, loading...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T224155Z">
+        <seg>Plånbok och nyckelfil hittades, läser in …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Wallet data saved</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171028T084623Z">
+        <seg>Plånbok data saved</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wallet initialization failed:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T163320Z">
+        <seg>Det gick inte att initiera plånbok:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wallet is view only</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T171158Z">
+        <seg>Plånbok är endast för granskning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wallet name not valid.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T223903Z">
+        <seg>Plånbokens namn ej giltigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wallet options</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T201002Z">
+        <seg>Alternativ för plånbok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Wallet password</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171028T084621Z">
+        <seg>Plånbok password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Wallet password (escape/quote as needed)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T203937Z">
+        <seg>Lösenord för plånboken (escape/quote as needed)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Wallet password file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171028T084622Z">
+        <seg>Plånbok password file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning: Choosing a strong passphrase is important to avoid brute force attempts to guess your passphrase and steal your bitcoins.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171018T204255Z">
+        <seg>Varning: Det är viktigt att välja en stark lösenfras för att undgå brute force-försök att gissa lösenfrasen och stjäla dina bitcoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+are from? --&gt; come from?
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Warning: Some input keys being spent are from</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T062329Z">
+        <seg>Varning: Some input keys som spenderas kommer från</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is B6?</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T185107Z">
+        <seg>Vad innebär B6?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When recording the values follow these rules: 1=1, 2=2, 3=3, 4=4, 5=5, 6=0.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T083001Z">
+        <seg>När du skriva ned utfallen ska du följa dessa regler: 1=1, 2=2, 3=3, 4=4, 5=5, 6=0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the customer chooses to pay in Bitcoin you will then display one of the addresses from your database to the customer as his "payment address" and save it with his shopping cart order.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T081802Z">
+        <seg>När kunden väljer att betala i bitcoin ska du visa en av adresserna från din databas för kunden, som kundens "betalningsadress", och spara adressen ihop med kundens beställning .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using a Bulk Wallet you can upload only the bitcoin addresses and not the private keys to your web server.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T181131Z">
+        <seg>När du använder en massplånbok kan du ladda upp enbart bitcoinadresserna till din webbserver och alltså inte de privata nycklarna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you perform a transaction your change will be sent to another bitcoin address within the p2p client wallet.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171020T043746Z">
+        <seg>När du genomför en transaktion kommer din växel att skickas till en annan bitcoinadress inom klientens plånbok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whomever you share the private key with has access to spend all the bitcoins associated with that address.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T175911Z">
+        <seg>Om du delar den privata nyckeln med någon annan så kan denna person komma åt och spendera alla bitcoin som finns på adressen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why should I use a Bulk Wallet to accept bitcoins on my website?</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T181039Z">
+        <seg>Varför ska jag använda en massplånbok för att acceptera betalning med bitcoin på min webbplats?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Would you like to use the entered text as a passphrase and create a Private Key using a SHA256 hash of the passphrase?</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171018T204242Z">
+        <seg>Vill du använda den angivna texten som lösenfras och skapa en privat nyckel genom att skapa en SHA256-hash av lösenfrasen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You appear to be running this generator online from a live website.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T171558Z">
+        <seg>Det verkar som om du kör denna generator online, uppkopplad till webbplatsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are running this generator from your local computer.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T171509Z">
+        <seg>Du kör denna generator från din lokala dator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also spend your funds by downloading one of the popular bitcoin p2p clients and importing your private key to the p2p client wallet.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171020T043529Z">
+        <seg>Alternativt kan du ladda ner något av de populära bitcoinklientprogrammen och importera din privata nyckel till klientens plånbok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can then enter the 99 character base 6 private key into the text field above and click View Details.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171021T083013Z">
+        <seg>Sedan kan du ange den 99 tecken långa privata nyckeln i Base6-format i textfältet ovan och klicka på Visa detaljer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You had been using a deprecated version of the wallet.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T200040Z" creationid="Dorothy" creationdate="20171026T200040Z">
+        <seg>Du hade använt en inaktuell version av plånboken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You may want to remove the file "&lt;x1/&gt;" and try again</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T222140Z">
+        <seg>You may want to remove the file "&lt;x1/&gt;" och försöka igen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must input two different keys.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T170041Z">
+        <seg>Du måste ange två olika nycklar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must then backup the p2p client wallet and keep it safe as your remaining bitcoins will be stored there.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171020T045850Z">
+        <seg>Därför måste du ta en backup av klientplånboken och spara den på ett säkert eftersom dina återstående bitcoin kommer att sparas där.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You now need to be notified when the payment arrives.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171020T050047Z">
+        <seg>Nu behöver du vänta på en avisering som meddelar att betalningen har kommit fram.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should also make note of your private key in WIF format since it is more widely used.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T185231Z">
+        <seg>Du ska också anteckna din privata nyckel i WIF-format eftersom detta används mer allmänt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should find another browser to use with this generator.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T171450Z">
+        <seg>Du måste hitta en annan webbläsare för att använda denna generator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should use a more modern browser with this generator to increase the security of the keys generated.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T060218Z">
+        <seg>Du måste använda en modernare webbläsare med denna generator för att öka säkerheten hos de nycklar som skapas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will need this to retrieve the Bitcoin Private Key once the Pool has found your prefix.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171020T044803Z">
+        <seg>Du kommer att behöva den för att komma åt din privata bitcoinnyckel när poolen har hittat ditt prefix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will then see the Bitcoin address associated with your private key.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T053122Z">
+        <seg>Du kommer då att se den bitcoinadress som är associerad med din privata nyckel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your Bitcoin Private Key is a unique secret number that only you know.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T053049Z">
+        <seg>Din privata bitcoinnyckel är ett unikt hemligt tal som bara du känner till.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your Bitcoin private key should be kept a secret.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T053016Z">
+        <seg>Du måste hålla din privata bitcoinnyckel hemlig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your browser can generate cryptographically random keys using window.crypto.getRandomValues</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T171350Z">
+        <seg>Din webbläsare kan skapa kryptografiskt slumpmässiga nycklar genom att anropa funktionen window.crypto.getRandomValues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your browser does NOT support window.crypto.getRandomValues.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T060257Z">
+        <seg>Din webbläsare stödjer INTE window.crypto.getRandomValues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>old password??
+</note>
+      <tuv lang="EN">
+        <seg>Your original password was incorrect.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T195222Z">
+        <seg>Ditt gamla lösenord var fel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Your transaction needs to be split into %llu transactions.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T184018Z">
+        <seg>Din transaktion behöver delas upp i %llu transaktioner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Your wallet file format is being upgraded now.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171028T084650Z">
+        <seg>Your plånbok file format is being upgraded now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your wallet has been generated!</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T182510Z">
+        <seg>Din plånbok har skapats!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[NOTE: this input box can accept a public key or private key]</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T192829Z">
+        <seg>[OBS: detta inmatningsfält kan ta emot en offentlig nyckel eller en privat nyckel]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>a single transaction cannot use more than one payment id:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T230758Z">
+        <seg>en enstaka transaktion kan inte använda mer än ett betalnings-ID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>account creation failed</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T164015Z">
+        <seg>det gick inte att skapa konto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>address_book [(add (&lt;address&gt; [pid &lt;long or short payment id&gt;])|&lt;integrated address&gt; [&lt;description possibly with whitespaces&gt;])|(delete &lt;index&gt;)] - Print all entries in the address book, optionally adding/deleting an entry to/from it</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T215041Z">
+        <seg>address_book [(add (&lt;adress&gt; [pid &lt;långt eller kort betalnings-ID&gt;])|&lt;Integrerad adress&gt; [&lt;beskrivning "possibly" med "whitespaces"&gt;])|(delete &lt;index&gt;)] - Skriv ut alla "entries" i adressboken, eventuellt lägga till/ta bort ett "entry" till/från den</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>amount</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T170444Z">
+        <seg>belopp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>amount is wrong:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055812Z">
+        <seg>beloppet är fel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and --</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T203123Z" creationid="Dorothy" creationdate="20171026T203123Z">
+        <seg>och --</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>available options: language</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T045913Z">
+        <seg>tillgängliga alternativ: språk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>bad locked_blocks parameter:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T063851Z">
+        <seg>"dålig" locked_blocks parameter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>bad m_restore_height parameter:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064039Z">
+        <seg>dålig m_restore_height parameter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>bad max_height parameter:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064025Z">
+        <seg>"bad" max_height parameter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>bad min_height parameter:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064022Z">
+        <seg>"bad" min_height parameter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>blockchain can't be saved:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T182400Z">
+        <seg>blockkedjan kan inte sparas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>blocks that are temporally very close</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T223300Z">
+        <seg>block som ligger väldigt nära varandra i tiden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>can't specify both --restore-deterministic-wallet and --non-deterministic</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T054655Z">
+        <seg>det går inte att ange både --restore-deterministic-wallet och --non-deterministic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>can't specify daemon host or port more than once</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064446Z">
+        <seg>can't specify daemon host eller port mer än en gång</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>can't specify more than one of --generate-new-wallet="wallet_name", --wallet-file="wallet_name", --generate-from-view-key="wallet_name", --generate-from-json="jsonfilename" and --generate-from-keys="wallet_name"</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T060945Z">
+        <seg>det går inte att ange mer än en av --generate-new-wallet="wallet_name", --wallet-file="wallet_name", --generate-from-view-key="wallet_name", --generate-from-json="jsonfilename" och --generate-from-keys="wallet_name"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>can't specify more than one of --password and --password-file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064500Z">
+        <seg>can't specify mer än en av --password och --password-file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cannot be empty</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T045531Z">
+        <seg>kan inte vara tomt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>could not change default mixin</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T142528Z">
+        <seg>det gick inte att ändra standardinställning för mixin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>could not change default priority</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T142722Z">
+        <seg>Det gick inte att ändra standardinställning för prioritet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>antal? måste kolla var det används
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>count</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>daemon is busy.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T202321Z">
+        <seg>daemonen är upptagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>date format must be YYYY-MM-DD</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T215434Z">
+        <seg>datumformat måste vara ÅÅÅÅ-MM-DD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>donate [&lt;mixin_count&gt;] &lt;amount&gt; [payment_id] - Donate &lt;amount&gt; to the development team (donate.getmonero.org)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T170423Z">
+        <seg>donate [&lt;mixin_count&gt;] &lt;belopp&gt; [payment_id] - Donera &lt;belopp&gt; till utvecklings-teamet (donate.getmonero.org)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>download</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T175531Z">
+        <seg>laddar ner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>error:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T163746Z">
+        <seg>fel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>expected at least one payment_id</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T063500Z">
+        <seg>"förväntade" åtminstone ett payment_id</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>expected number from 0 to</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T060748Z">
+        <seg>"expected" ett tal från 0 till</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>failed</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T163525Z">
+        <seg>misslyckades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to connect to the daemon</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T164553Z">
+        <seg>det gick inte att ansluta till daemonen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>failed to deinitialize wallet</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T182436Z">
+        <seg>det gick inte att "deinitialize" plånboken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to find a suitable way to split transactions</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T163429Z">
+        <seg>det gick inte att hitta ett lämpligt sätt att dela upp transaktioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>failed to generate key derivation</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T163913Z">
+        <seg>det gick inte att skapa nyckel-"derivation"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to generate key derivation from supplied parameters</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T171516Z">
+        <seg>det gick inte att skapa nyckelhärledning från angivna parametrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to generate new wallet:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T162112Z">
+        <seg>det gick inte att skapa ny plånbok:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>failed to get blockchain height:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T164611Z">
+        <seg>det gick inte att "get" blockkedjans höjd:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>failed to get output:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T164457Z">
+        <seg>det gick inte att "get output":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>failed to get random outputs to mix</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T162851Z">
+        <seg>det gick inte att hämta slumpmässiga "outputs" att mixa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>failed to get random outputs to mix:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T230230Z">
+        <seg>det gick inte att "get" slumpmässiga "outputs" att "mix":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>failed to get random outputs to mix: &lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T163120Z">
+        <seg>det gick inte att hitta slumpmässiga "outputs" att mixa: &lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>failed to get spent status</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T163931Z">
+        <seg>det gick inte att "get" spent status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to get the right transaction from daemon</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T164300Z">
+        <seg>det gick inte att hämta rätt transaktion från daemonen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to get transaction from daemon</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T164130Z">
+        <seg>det gick inte att hämta transaktion från daemon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to load wallet:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T165652Z">
+        <seg>det gick inte att läsa in plånboken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>open account vs. create
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>failed to open account</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T163943Z">
+        <seg>det gick inte att öppna konto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to parse address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T195537Z">
+        <seg>det gick inte att parsa adressen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to parse index</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T060430Z">
+        <seg>det gick inte att parsa index</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>failed to parse payment ID</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T060426Z">
+        <seg>det gick inte att parsa betalnings-ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+ID omväxlande caps och inte
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>failed to parse payment ID or address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T060410Z">
+        <seg>det gick inte att parsa betalnings-ID eller adress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>failed to parse refresh type</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T060328Z">
+        <seg>det gick inte att parsa refresh type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>varför skriva ut "secret"?
+</note>
+      <tuv lang="EN">
+        <seg>failed to parse secret spend key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T151813Z">
+        <seg>det gick inte att parsa hemlig spendernyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to parse secret view key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T145703Z">
+        <seg>det gick inte att parsa hemlig visningsnyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to parse spend key secret key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T162523Z">
+        <seg>det gick inte att parsa spendernyckel hemlig nyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to parse transaction from daemon</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T060315Z">
+        <seg>det gick inte att parsa transaktion från daemonen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to parse tx key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T163819Z">
+        <seg>det gick inte att parsa transaktionsnyckeln</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to parse tx_key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T060342Z">
+        <seg>det gick inte att parsa tx_key</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to parse txid</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T163807Z">
+        <seg>det gick inte att parsa transaktions-id</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>"key" twice
+</note>
+      <tuv lang="EN">
+        <seg>failed to parse view key secret key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T153236Z">
+        <seg>det gick inte att parsa visningsnyckel hemlig nyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to read file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055848Z">
+        <seg>det gick inte att läsa filen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to read wallet password</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T145446Z">
+        <seg>det gick inte att läsa lösenord för plånboken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to save file</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T162200Z">
+        <seg>det gick inte att spara fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>failed to set up payment id, though it was decoded correctly</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T230921Z">
+        <seg>det gick inte att "set up" betalnings-ID, även om den dekodades korrekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to validate transaction from daemon</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T163148Z">
+        <seg>det gick inte att validera transaktion från daemon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to verify key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T044520Z">
+        <seg>det gick inte att verifiera nyckeln</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to verify secret spend key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T152612Z">
+        <seg>det gick inte att verifiera hemlig spendernyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to verify secret view key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T063908Z">
+        <seg>det gick inte att verifiera hemlig visningsnyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>failed to verify spend key secret key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T162532Z">
+        <seg>det gick inte att verifiera spendernyckel hemlig nyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>fel på engelska
+</note>
+      <tuv lang="EN">
+        <seg>failed to verify view key secret key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T153726Z">
+        <seg>det gick inte att verifiera visningsnyckel hemlig nyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>found outputs to mix</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T163301Z">
+        <seg>hittade "outputs" att mixa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+coinbase tx
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>full (slowest, no assumptions); optimize-coinbase (fast, assumes the whole coinbase is paid to a single address); no-coinbase (fastest, assumes we receive no coinbase transaction), default (same as optimize-coinbase)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T061616Z">
+        <seg>full (långsammast, inga antaganden); optimize-coinbase (snabb, antar att hela coinbase-transaktionen betalas till en enda adress); no-coinbase (snabbast, antar att ingen coinbase-transaktion tas emot), default (samma som optimize-coinbase)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>global index</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064108Z">
+        <seg>globalt index</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>height</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T164635Z">
+        <seg>höjd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>in txid</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T171538Z">
+        <seg>i transaktions-id</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>incoming_transfers [available|unavailable] - Show incoming transfers, all or filtered by availability</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064416Z">
+        <seg>incoming_transfers [available|unavailable] - Visa inkommande "transfers, all or filtered by availability"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>integer &gt;= 2</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T203418Z">
+        <seg>heltal &gt;= 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>integrated_address [PID] - Encode a payment ID into an integrated address for the current wallet public address (no argument uses a random payment ID), or decode an integrated address to standard address and payment ID</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T193228Z">
+        <seg>integrated_address [PID] - Koda ett betalnings-ID till en integrerad adress för den aktuella plånbokens offentliga adress (inget argument använder ett slumpmässigt betalnings-ID), eller dekoda en integrerad adress till standardadress och betalnings-ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>internal error:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T164943Z">
+        <seg>internt fel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>invalid address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T212922Z">
+        <seg>ogiltig adress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>invalid amount threshold</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T170333Z">
+        <seg>ogiltig belopp tröskel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>invalid arguments.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T165040Z">
+        <seg>ogiltiga argument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>invalid count: must be an unsigned integer</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T064252Z">
+        <seg>invalid count: måste vara ett heltal utan tecken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+passed vs. entered?
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>invalid language choice passed.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T221024Z">
+        <seg>ogiltigt språkval "passed".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>invalid password</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T195842Z">
+        <seg>ogiltigt lösenord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>invalid unit</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T064236Z">
+        <seg>ogiltig enhet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>invalid value</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T064302Z">
+        <seg>ogiltigt värde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>key does not match address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T044541Z">
+        <seg>nyckeln matchar inte adressen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>key image</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T063655Z">
+        <seg>"key image"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>locked</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T202357Z" creationid="Dorothy" creationdate="20171026T202357Z">
+        <seg>låst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+&lt;addr&gt; --&gt; &lt;address&gt;
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>locked_transfer [&lt;mixin_count&gt;] &lt;addr&gt; &lt;amount&gt; &lt;lockblocks&gt;(Number of blocks to lock the transaction for, max 1000000) [&lt;payment_id&gt;]</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T183325Z">
+        <seg>locked_transfer [&lt;mixin_count&gt;] &lt;adr&gt; &lt;belopp&gt; &lt;lockblocks&gt;(Number of blocks to lock the transaktion för, max 1000000) [&lt;payment_id&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>mining has NOT been started:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T063732Z">
+        <seg>brytning has NOT been started:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>mining has NOT been stopped:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T063807Z">
+        <seg>brytning har "NOT been stopped":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>missing amount threshold</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T170337Z">
+        <seg>belopp tröskel saknas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mixin must be an integer &gt;= 2</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064333Z">
+        <seg>mixin måste vara ett heltal &gt;= 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>monero, millinero, micronero, nanonero, piconero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>needs an argument</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T054917Z">
+        <seg>kräver ett argument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>no change</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T123134Z">
+        <seg>ingen växel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>no connection to daemon.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T204515Z">
+        <seg>ingen anslutning till daemonen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>no tx keys found for this txid</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T060043Z">
+        <seg>inga tx-nycklar kunde hittas för detta txid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>not enough money to transfer, available only &lt;x1/&gt;, sent amount &lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T145633Z">
+        <seg>inte tillräckligt med pengar för överföring, endast tillgängligt &lt;x1/&gt;, skickat belopp &lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>not enough money to transfer, available only &lt;x1/&gt;, transaction amount &lt;x2/&gt; = &lt;x3/&gt; + &lt;x4/&gt; (fee)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T163245Z">
+        <seg>ej tillräckligt med pengar för överföring, endast tillgängligt &lt;x1/&gt;, transaktionsbelopp &lt;x2/&gt; = &lt;x3/&gt; + &lt;x4/&gt; (avgift)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>not enough outputs for specified mixin_count</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T060859Z">
+        <seg>inte tillräckligt många "outputs" för angiven mixin_count</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one of destinations is zero</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T200644Z">
+        <seg>en av destinationerna är noll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>out</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T163528Z">
+        <seg>ut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>output amount</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T163256Z">
+        <seg>"output" belopp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>output key's originating block height shouldn't be higher than the blockchain height</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064232Z">
+        <seg>"output key's originating" blockhöjd "shouldn't be higher than the blockchain height"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>payment</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T063513Z">
+        <seg>betalning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>payment ID has invalid format, expected 16 or 64 character hex string:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T223222Z">
+        <seg>betalnings-ID har ogiltigt format, "förväntade" en 16- eller 64-teckens hex-sträng:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>payment id has invalid format, expected 16 or 64 character hex string:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T123213Z">
+        <seg>betalnings-ID har ogiltigt format, en 16- eller 64-teckens hex-sträng förväntades:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>payments &lt;PID_1&gt; [&lt;PID_2&gt; ... &lt;PID_N&gt;] - Show payments for given payment ID[s]</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T063601Z">
+        <seg>payments &lt;PID_1&gt; [&lt;PID_2&gt; ... &lt;PID_N&gt;] - Visa betalningar för ett givet betalnings-ID[s]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+väntande?
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>pending</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064039Z">
+        <seg>"pending"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>permits inbound unencrypted external connections.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T171846Z">
+        <seg>tillåter inkommande okrypterade externa anslutningar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>possibly lost connection to daemon</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064214Z">
+        <seg>möjlig förlust av anslutning till daemon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+fixa i source
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>priority must be 0, 1, 2 3,or 4</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T064217Z">
+        <seg>prioritet måste vara 0, 1, 2, 3 eller 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>priority must be 0, 1, 2, 3, or 4</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T064143Z">
+        <seg>prioritet måste vara 0, 1, 2, 3 eller 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+fixa denna i source
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>priority must be 0, 1, 2, 3,or 4</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T064203Z">
+        <seg>prioritet måste vara 0, 1, 2, 3 eller 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>pubkey</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T063657Z">
+        <seg>"pubkey"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>received</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T064031Z">
+        <seg>mottaget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>received nothing in txid</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T171600Z">
+        <seg>tog emot "nothing" i transaktions-id</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>refresh error:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T182608Z">
+        <seg>fel vid uppdatering:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>refresh failed:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T164657Z">
+        <seg>det gick inte att att uppdatera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>ringct</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T063704Z">
+        <seg>"ringct"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sending &lt;x1/&gt; to &lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T043923Z">
+        <seg>skickar &lt;x1/&gt; till &lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+sätt frö / ange frö
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>set seed: needs an argument.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T045854Z">
+        <seg>set seed: behöver ett argument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>set: unrecognized argument(s)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T045925Z">
+        <seg>set: "unrecognized" argument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>set_log &lt;level&gt;|&lt;categories&gt; - Change current log detail (level must be &lt;0-4&gt;)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T195331Z">
+        <seg>set_log &lt;level&gt;|&lt;categories&gt; - Ändra detaljnivån för aktuell logg (level måste vara &lt;0-4&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>show_transfers [in|out|pending|failed|pool] [&lt;min_height&gt; [&lt;max_height&gt;]] - Show incoming/outgoing transfers within an optional height range</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T215234Z">
+        <seg>show_transfers [in|out|pending|failed|pool] [&lt;min_height&gt; [&lt;max_height&gt;]] - Visa inkommande/utgående överföringar inom ett "optional" height-intervall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>specify a recovery parameter with the --electrum-seed="words list here"</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T210029Z">
+        <seg>ange en återställningsparameter med --electrum-seed="ordlista här"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>specify a wallet path with --generate-new-wallet (not --wallet-file)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T191759Z">
+        <seg>ange sökväg till en plånbok med --generate-new-wallet (inte --wallet-file)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>spend key does not match address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T055901Z">
+        <seg>spendernyckel matchar inte adress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>spend key does not match standard address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T054449Z">
+        <seg>spendernyckel matchar inte standardadress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>spent</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T063814Z">
+        <seg>spenderat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>start_mining [&lt;number_of_threads&gt;] - Start mining in daemon</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T171959Z">
+        <seg>start_mining [&lt;number_of_threads&gt;] - Starta brytning i daemonen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>sweep_all [mixin] address [payment_id] - Send all unlocked balance to an address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T063439Z">
+        <seg>sweep_all [mixin] address [payment_id] - Skicka all olåst "balance" till en adress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+address? är ett kommando?
+
+tröskelbelopp
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>sweep_below &lt;amount_threshold&gt; [mixin] address [payment_id] - Send all unlocked outputs below the threshold to an address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T063352Z">
+        <seg>sweep_below &lt;amount_threshold&gt; [mixin] address [payment_id] - Skicka alla "unlocked outputs" under tröskeln till en adress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the password file specified could not be read</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T144921Z">
+        <seg>det gick inte att läsa angiven lösenordsfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>the same transaction</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T183106Z">
+        <seg>samma transaktion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the zip file from GitHub and run this generator offline as a local html file.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171019T175544Z">
+        <seg>zip-filen från GitHub och kör denna generator som en lokal html-fil, utan att vara uppkopplad mot nätet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>this command requires a trusted daemon.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T222219Z">
+        <seg>detta kommando kräver en betrodd/"trusted" daemon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>transaction</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T203518Z">
+        <seg>transaktion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>transaction &lt;x1/&gt; was rejected by daemon with status:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T184236Z">
+        <seg>transaktionen &lt;x1/&gt; avvisades av daemonen med status:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>transaction cancelled.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T184030Z">
+        <seg>transaktion "cancelled".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>transaction was not constructed</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T163320Z">
+        <seg>transaktionen konstruerades inte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>transfer [&lt;priority&gt;] [&lt;mixin_count&gt;] &lt;address&gt; &lt;amount&gt; [&lt;payment_id&gt;] - Transfer &lt;amount&gt; to &lt;address&gt;.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T183443Z">
+        <seg>transfer [&lt;prioritet&gt;] [&lt;mixin_count&gt;] &lt;adress&gt; &lt;belopp&gt; [&lt;payment_id&gt;] - "Överför/Transfer" &lt;belopp&gt; till &lt;adress&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>true</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T203430Z">
+        <seg>sant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+kapitalisering
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>tx id</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064139Z">
+        <seg>tx-ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>unexpected error:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T164850Z">
+        <seg>oväntat fel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>unknown error</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T164838Z">
+        <seg>okänt fel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>unknown transfer error:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T163752Z">
+        <seg>okänt överföringsfel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>unlock time</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>unlocked</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T182334Z">
+        <seg>olåst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>unlocked balance:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171101T064100Z">
+        <seg>olåst saldo "unlocked balance":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>unsigned integer</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T203431Z">
+        <seg>positivt heltal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>unspent_outputs [&lt;min_amount&gt; &lt;max_amount&gt;] - Show unspent outputs within an optional amount range</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T063804Z">
+        <seg>unspent_outputs [&lt;min_belopp&gt; &lt;max_belopp&gt;] - Visa unspent outputs inom ett valfritt beloppsintervall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>unsupported transaction format</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T184213Z">
+        <seg>transaktionsformatet stöds inte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>usage: address_book [(add (&lt;address&gt; [pid &lt;long or short payment id&gt;])|&lt;integrated address&gt; [&lt;description possibly with whitespaces&gt;])|(delete &lt;index&gt;)]</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T214041Z">
+        <seg>användning: address_book [(add (&lt;adress&gt; [pid &lt;långt eller kort betalnings-ID&gt;])|&lt;Integrerad adress&gt; [&lt;beskrivning "possibly" med "whitespaces"&gt;])|(delete &lt;index&gt;)]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>usage: check_tx_key &lt;txid&gt; &lt;txkey&gt; &lt;address&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T060050Z">
+        <seg>användning: check_tx_key &lt;txid&gt; &lt;txkey&gt; &lt;adress&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>usage: check_tx_proof &lt;txid&gt; &lt;address&gt; &lt;signature&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T223610Z">
+        <seg>användning: check_tx_proof &lt;txid&gt; &lt;adress&gt; &lt;signatur&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>usage: export_key_images &lt;filename&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055649Z">
+        <seg>användning: export_key_images &lt;filnamn&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>usage: export_outputs &lt;filename&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055718Z">
+        <seg>användning: export_outputs &lt;filnamn&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>usage: get_tx_key &lt;txid&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055955Z">
+        <seg>användning: get_tx_key &lt;txid&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>usage: get_tx_note [txid]</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055526Z">
+        <seg>användning: get_tx_note [txid]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>usage: get_tx_proof &lt;txid&gt; &lt;dest_address&gt; [&lt;tx_key&gt;]</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055501Z">
+        <seg>användning: get_tx_proof &lt;txid&gt; &lt;dest_address&gt; [&lt;tx_key&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>usage: import_key_images &lt;filename&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055709Z">
+        <seg>användning: import_key_images &lt;filnamn&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>usage: import_outputs &lt;filename&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055914Z">
+        <seg>användning: import_outputs &lt;filnamn&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>usage: integrated_address [payment ID]</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171030T214315Z">
+        <seg>användning: integrated_address [betalnings-ID]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>usage: payment_id</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T050347Z" creationid="Dorothy" creationdate="20171026T195923Z">
+        <seg>användning: payment_id</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>usage: set_log &lt;log_level_number_0-4&gt; | &lt;categories&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055448Z">
+        <seg>användning: set_log &lt;log_level_number_0-4&gt; | &lt;categories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>usage: set_tx_note [txid] free text note</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055524Z">
+        <seg>användning: set_tx_note [txid] free text note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>usage: show_transfer &lt;txid&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055456Z">
+        <seg>användning: show_transfer &lt;txid&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>usage: show_transfers [in|out|all|pending|failed] [&lt;min_height&gt; [&lt;max_height&gt;]]</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T060058Z">
+        <seg>användning: show_transfers [in|out|all|pending|failed] [&lt;min_height&gt; [&lt;max_height&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>usage: sign &lt;filename&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055819Z">
+        <seg>användning: sign &lt;filnamn&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>usage: unspent_outputs [&lt;min_amount&gt; &lt;max_amount&gt;]</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T170726Z">
+        <seg>användning: unspent_outputs [&lt;min_belopp&gt; &lt;max_belopp&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>usage: verify &lt;filename&gt; &lt;address&gt; &lt;signature&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055839Z">
+        <seg>användning: verify &lt;filnamn&gt; &lt;adress&gt; &lt;signatur&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>view key does not match address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171031T063923Z">
+        <seg>visningsnyckel matchar inte adress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>view key does not match standard address</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T063430Z">
+        <seg>visningsnyckel matchar inte standardadress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wallet</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T202818Z" creationid="Dorothy" creationdate="20171026T202818Z">
+        <seg>plånbok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wallet failed to connect to daemon:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T055151Z">
+        <seg>plånboken kunde inte ansluta till daemonen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wallet file path not valid:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T050009Z">
+        <seg>ogiltig sökväg till plånbok:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>wallet is non-deterministic and has no seed</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171028T084657Z">
+        <seg>plånbok is non-deterministic and has no seed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>wallet is null</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T202225Z" creationid="Dorothy" creationdate="20171026T202217Z">
+        <seg>plånboken är null</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>wallet is watch-only and cannot export key images</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171028T084726Z">
+        <seg>plånbok is watch-only and cannot export key images</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>wallet is watch-only and cannot sign</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171028T084723Z">
+        <seg>plånbok is watch-only and cannot sign</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wallet is watch-only and cannot transfer</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T141948Z">
+        <seg>plånboken är bara för granskning och kan inte göra överföringar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>wallet is watch-only and has no seed</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T141552Z">
+        <seg>plånbok är enbart till för granskning och saknar "seed"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wallet is watch-only and has no spend key</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T164502Z">
+        <seg>plånboken är endast för granskning och har ingen spendernyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>with no destinations</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T200631Z">
+        <seg>utan några destinationer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wrong number of arguments</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171027T183636Z">
+        <seg>fel antal argument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>yes</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171026T195811Z" creationid="Dorothy" creationdate="20171026T195811Z">
+        <seg>ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>you have cancelled the transfer request</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171102T064329Z">
+        <seg>du har avbrutit överföringsbegäran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>zip</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

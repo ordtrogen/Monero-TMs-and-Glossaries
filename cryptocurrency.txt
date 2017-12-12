@@ -1,0 +1,12 @@
+block reward	blockbelöning
+block time	blocktid
+change	växel
+cryptocurrency	kryptovaluta
+dust	damm
+fork	förgrening
+ledger	liggare
+miner	brytare
+mining	brytning
+proof-of-work	bevis-på-arbete
+spend key	spendernyckel
+view key	visningsnyckel
