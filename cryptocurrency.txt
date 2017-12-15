@@ -4,6 +4,7 @@ change	växel
 cryptocurrency	kryptovaluta
 dust	damm
 fork	förgrening
+fungible	fungibel
 ledger	liggare
 miner	brytare
 mining	brytning
